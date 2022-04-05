@@ -7,7 +7,6 @@
     tools:context=".MainActivity">
 
     <Button
-        android:background="@drawable/twitter_222"
         android:id="@+id/twtt"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
